@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ang-fire-13a15": {
+      "hosting": {
+        "ang-fire": [
+          "ang-fire-13a15"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-fire-13a15"
+  }
+}
