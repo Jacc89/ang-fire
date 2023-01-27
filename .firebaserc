@@ -1,14 +1,14 @@
 {
   "targets": {
-    "ang-fire-13a15": {
+    "angular-3f466": {
       "hosting": {
         "ang-fire": [
-          "ang-fire-13a15"
+          "angular-3f466"
         ]
       }
     }
   },
   "projects": {
-    "default": "ang-fire-13a15"
+    "default": "angular-3f466"
   }
 }

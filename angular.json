@@ -98,8 +98,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "ang-fire:build:production",
-            "firebaseProject": "ang-fire-13a15",
-            "firebaseHostingSite": "ang-fire-13a15"
+            "firebaseProject": "angular-3f466",
+            "firebaseHostingSite": "angular-3f466"
           }
         }
       }
